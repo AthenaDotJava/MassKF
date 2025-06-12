@@ -28,3 +28,18 @@ Inserts a keyframe to all selected objects only with active property.
 ### Duplicate Keyframe to Selected Objects
 Inserts a keyframe to all selected objects only with active property, copying the value of the active object, essentially the same as
 "Copy to Selected" and then "Add Keyframe to Selected Objects"
+
+## Contact Me
+I do not respond to emails in a timely manner, please use my socials, if at all possible.
+
+<table><tbody>
+  <tr>
+    <td>Discord</td>
+    <td>stratosderg</td>
+  </tr>
+  <tr>
+    <td>eMail</td>
+    <td>violetskies2707+MKF@gmail.com</td>
+  </tr>
+</tbody>
+</table>
