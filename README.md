@@ -1,5 +1,5 @@
-# MassKF
-Mass Keyframe extension for blender
+# Mass Keyframe
+A Blender extension for animating properties of multiple objects.
 
 ## Usage
 - Select objects
